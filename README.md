@@ -16,5 +16,5 @@ Here are some **job titles that would excite me**:
 - Self-taught in Python (12+yr)
 - Read my undergrad thesis, the culmination of 2+yr of deep self-reflection that changed my understanding of human intelligence and AI research: https://tinyurl.com/ICSFramework
 
-[resume]: "ML\ Resume\ -\ 2023-05-08.pdf"
+[resume]: resume_2023-05-08.pdf
 
