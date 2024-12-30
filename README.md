@@ -6,15 +6,21 @@ I'm currently **open for new work**! Feel free to reach out with any inquiries (
 <hr />
 
 Here are some **job titles that would excite me**:
-- AI/ML System Designer
-- Software Engineer
-- Web 3 Developer
+- AI Researcher Engineer
+- Founding Engineer
+- Fullstack developer
 
 **TL;DR** for my relevant experiences/projects:
+- Founder @ Hyprchs ([web](https://hyprchs.com), [github org](https://github.com/hyprchs)) (1yr, **current**)
+  - Stack: SvelteKit, TypeScript, Firestore, GCP, Pytorch, OpenCV, YOLOv8, Ollama, C++, [lczero](https://lczero.org/)
+  - Received funding from the [Google for Startups Cloud Program](https://cloud.google.com/startup) accelerator
+  - "Semi-stealth" mode
+  - Please fund me :D
+- Machine Learning Engineer @ [Flipmine.com](https://flipmine.com) (1yr, **current**)
 - Senior Python Dev @ [Aimchess](https://aimchess.com) (2yr)
 - Machine Learning Engineer @ [Dynamic Organics](https://www.dynorganics.com/) (<1yr)
 - Self-taught in Python (12+yr)
-- Read my undergrad thesis, the culmination of 2+yr of deep self-reflection that changed my understanding of human intelligence and AI research: https://tinyurl.com/ICSFramework
+- Undergrad Honors Thesis: the culmination of 2+yr of deep self-reflection that shaped my understanding of human & artifiical intelligence: https://tinyurl.com/ICSFramework
 
-[resume]: resume_2023-05-08.pdf
+[resume]: resume.pdf
 
