@@ -19,7 +19,7 @@ Here are some **job titles that would excite me**:
 - Machine Learning Engineer @ [Flipmine.com](https://flipmine.com) (1yr, **current**)
 - Senior Python Dev @ [Aimchess](https://aimchess.com) (2yr)
 - Machine Learning Engineer @ [Dynamic Organics](https://www.dynorganics.com/) (<1yr)
-- Self-taught in Python (12+yr)
+- Self-taught in Python, practiced consistently over 15+yr (since 3rd grade)
 - Undergrad Honors Thesis: the culmination of 2+yr of deep self-reflection that shaped my understanding of human & artifiical intelligence: https://tinyurl.com/ICSFramework
 
 [resume]: resume.pdf
