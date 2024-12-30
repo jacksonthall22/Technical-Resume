@@ -1,0 +1,148 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{ragged2e}
+\usepackage{etoolbox}
+\usepackage{tikz}
+\input{glyphtounicode}
+
+% font options
+\usepackage[sc]{mathpazo}
+\linespread{1.05}
+\usepackage[T1]{fontenc}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\setlength{\footskip}{5pt}
+
+% sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+% custom commands
+\newcommand{\cvitem}[1]{
+  \item\small{
+    {#1\vspace{-2pt}}
+  }
+}
+
+\newcommand{\cvheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\cvheadingstart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\cvheadingend}{\end{itemize}}
+\newcommand{\cvitemstart}{\begin{itemize}\justifying}
+\newcommand{\cvitemend}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+% contact information
+\begin{center}
+  \textbf{\LARGE\scshape Jackson Hall} \\
+  \vspace{1pt}\small
+  Machine Learning Engineer / Data Scientist \\
+  \vspace{1pt}\small
+  \href{mailto:jacksonthall22@gmail.com}{jacksonthall22@gmail.com}
+  $\ \diamond\ $ 
+  (802) 356-4622
+  $\ \diamond\ $
+  New York City
+  $\ \diamond\ $
+  \href{https://github.com/jacksonthall22}{GitHub}
+  $\ \diamond\ $
+  \href{https://linkedin.com/in/jackson-t-hall}{LinkedIn}
+\end{center}
+
+\section{Education}
+\cvheadingstart
+  \cvheading
+    {University of Vermont Honors College}{Burlington, VT}
+    {B.S. in Computer Science, GPA: 3.4}{Sep 2018 -- Mar 2022}
+  \cvitemstart
+    \cvitem{Honors Thesis: \textit
+    {The Introspective Case Study Framework: Crowdsourced Introspection as a Research Pipeline for Humanlike General Intelligence}
+    (\href{https://tinyurl.com/ICSFramework}{https://tinyurl.com/ICSFramework})}
+  \cvitemend
+\cvheadingend
+
+\section{Work Experience}
+\cvheadingstart
+  \cvheading
+    {Flipmine.com}{Half-time}
+    {Data Scientist \& Machine Learning Engineer}{Jan 2024 -- Present}
+  \cvitemstart
+    \cvitem{Using deep learning to improve product matching and recommendation algorithms}
+    \cvitem{Implementing custom ML architectures and ELT training pipelines from scratch}
+    \cvitem{Using Docker and nginx to scale backend resources}
+    \cvitem{Reduced calls to 3rd party APIs by 10x with custom-built cache servers}
+  \cvitemend
+
+  \cvheading
+    {Hyprchs.com}{Side project}
+    {Founder}{Jun 2023 -- Present}
+  \cvitemstart
+    \cvitem{Creating a suite of chess improvement tools infused with generative AI}
+    \cvitem{Designing thoughtful user experiences with a SvelteKit + TS stack}
+    \cvitem{Building and training HyprGM, a custom multimodal LLM for chess instruction, using open-source parts}
+    \cvitem{Using computer vision (YOLOv8) to extract chess positions from freely available instructional chess videos, timestamping and aligning each change to the transcript}
+  \cvitemend
+
+  \cvheading
+    {Dynamic Organics}{Full-time}
+    {Machine Learning Engineer}{Jan 2023 -- Apr 2023}
+  \cvitemstart
+    \cvitem{Researched \& implemented state-of-the-art ML algorithms for multivariate time-series forecasting and hierarchical reconciliation of forecasts}
+    \cvitem{Improved mean absolute percentage error (MAPE) by over three percentage points (5\% to 1.5\%)}
+    \cvitem{Cleaned and organized data from a \textasciitilde{}5TB database}
+    \cvitem{Designed a custom ML architecture leveraging several datasets, some with a time-series structure and others with graphical or hierarchical structures}
+  \cvitemend
+
+  \cvheading
+    {Aimchess.com}{Full-time}
+    {Senior Python Developer}{May 2021 -- Nov 2022}
+  \cvitemstart
+    \cvitem{Designed chess-specific data structures and graph search algorithms to extract metrics on hundreds of thousands of user chess games while balancing constraints like accuracy, understandability, runtime, and compute cost}
+  \cvitemend
+\cvheadingend
+
+\section{Skills}
+\textbf{Programming \& Tools:} Git, Python, TypeScript, Jupyter, C++, Java, Flask, Svelte(Kit), SQL/NoSQL \\
+\textbf{ML \& AI:} PyTorch, TensorFlow, Pandas, Numpy, Matplotlib, LLMs, Ollama, Transformer families, Multimodal architectures, RAG, Vector DBs, Embedding spaces, AI/ML system design, Geometric foundations of deep learning and generalization/AGI \\
+\textbf{Other:} Spanish (11yr), Chess (2300+ on Lichess)
+
+\end{document}
