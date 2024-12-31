@@ -24,7 +24,7 @@ Here are some **job titles that would excite me**:
 
 **Hobbies**:
 - I used to create professional origami by commission ([portfolio](https://photos.app.goo.gl/RCifM6F2GnktDexH9))
-- I once solved a Rubik's Cube in 8.9s ([watch my best comp solves](https://photos.app.goo.gl/RCifM6F2GnktDexH9)) 
+- I once solved a Rubik's Cube in 8.9s ([watch my best comp solves](https://photos.app.goo.gl/AiTpeHhiS6niSmPS9)) 
 - I'm 2200 on Lichess ([some](https://lichess.org/@/Cubigami/perf/bullet) [times](https://lichess.org/@/RoadTo20000/perf/bullet))
 - I play piano and spent 5 years learning Kaleidoscope by Hiromi Uehara (link coming soon)
 
