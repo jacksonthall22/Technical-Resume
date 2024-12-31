@@ -20,7 +20,13 @@ Here are some **job titles that would excite me**:
 - Machine Learning Engineer @ [Dynamic Organics](https://www.dynorganics.com/) (<1yr)
 - Self-taught in Python, practiced consistently since 3rd grade (15yr+)
 - Built a [4D rendering engine](https://github.com/jacksonthall22/4D-Graphics-Engine/tree/update-2023) from scratch in C++
-- Undergrad Honors Thesis: the culmination of 2+yr of deep self-reflection that shaped my understanding of human & artifiical intelligence: https://tinyurl.com/ICSFramework
+- Undergrad Honors Thesis: the culmination of 2+yr of deep self-reflection that shaped my understanding of human & artifiical intelligence ([read it here](https://tinyurl.com/ICSFramework))
+
+**Hobbies**:
+- I used to create professional origami by commission ([portfolio](https://photos.app.goo.gl/RCifM6F2GnktDexH9))
+- I once solved a Rubik's Cube in 8.9s ([watch my best comp solves](https://photos.app.goo.gl/RCifM6F2GnktDexH9)) 
+- I'm 2200 on Lichess ([some](https://lichess.org/@/Cubigami/perf/bullet) [times](https://lichess.org/@/RoadTo20000/perf/bullet))
+- I play piano and spent 5 years learning Kaleidoscope by Hiromi Uehara (link coming soon)
 
 [resume]: resume.pdf
 
