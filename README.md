@@ -1,16 +1,16 @@
 # Hello! 👋
-I'm Jackson. This repository holds my most current resume for technical positions.
+I'm Jackson. This repository holds my most current [🔗 resume 🔗][resume] for technical positions.
 
-I'm currently **open for new work**! Feel free to reach out with any inquiries (**contact info in [resume][resume]**)!
+I'm currently **open for new work**! Feel free to reach out with any inquiries (**contact info in resume**)!
 
-<hr />
+If it's after January 15, 2025, I'm currently living in **East Williamsburg, NYC**.
 
-Here are some **job titles that would excite me**:
-- AI Researcher Engineer
+## 🎯 Some job titles that would excite me
+- AI Research Engineer
 - Founding Engineer
-- Fullstack developer
+- Fullstack Developer
 
-**TL;DR** for my relevant experiences/projects:
+## 💼 Professional experiences & projects
 - Founder @ Hyprchs ([web](https://hyprchs.com), [github org](https://github.com/hyprchs)) (1yr, **current**)
   - Stack: SvelteKit, TypeScript, Firestore, GCP, Pytorch, OpenCV, YOLOv8, Ollama, C++, [lczero](https://lczero.org/)
   - Received funding from the [Google for Startups Cloud Program](https://cloud.google.com/startup) accelerator
@@ -22,11 +22,12 @@ Here are some **job titles that would excite me**:
 - Built a [4D rendering engine](https://github.com/jacksonthall22/4D-Graphics-Engine/tree/update-2023) from scratch in C++
 - Undergrad Honors Thesis: the culmination of 2+yr of deep self-reflection that shaped my understanding of human & artifiical intelligence ([read it here](https://tinyurl.com/ICSFramework))
 
-**Hobbies**:
+## 🧗 Hobbies
+- I'm 2200 on Lichess ([some](https://lichess.org/@/Cubigami/perf/bullet)[times](https://lichess.org/@/RoadTo20000/perf/bullet))
+- I have sent a few V6 boulders
+- I play piano, spent 5 years learning [Kaleidoscope by Hiromi Uehara](https://youtu.be/QU2893TnTbU?si=fTOynU-eVYEWnejD) (performance coming soon)
+- I grew up ski jumping ([hill pics, none of me](https://www.fordsayre.org/jumping/))
 - I used to create professional origami by commission ([portfolio](https://photos.app.goo.gl/RCifM6F2GnktDexH9))
-- I once solved a Rubik's Cube in 8.9s ([watch my best comp solves](https://photos.app.goo.gl/AiTpeHhiS6niSmPS9)) 
-- I'm 2200 on Lichess ([some](https://lichess.org/@/Cubigami/perf/bullet) [times](https://lichess.org/@/RoadTo20000/perf/bullet))
-- I play piano and spent 5 years learning Kaleidoscope by Hiromi Uehara (link coming soon)
+- I once solved a Rubik's Cube in 8.91s ([watch my best competition solves](https://photos.app.goo.gl/AiTpeHhiS6niSmPS9))
 
 [resume]: resume.pdf
-
