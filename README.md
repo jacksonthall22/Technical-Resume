@@ -7,8 +7,8 @@ If it's after January 15, 2025, I'm currently living in **East Williamsburg, NYC
 
 ## 🎯 Some job titles that would excite me
 - AI Research Engineer
-- Founding Engineer
-- Fullstack Developer
+- Agentic Developer
+- Technical Co-founder
 
 ## 💼 Professional experiences & projects
 - Founder @ Hyprchs ([web](https://hyprchs.com), [github org](https://github.com/hyprchs)) (1yr, **current**)
