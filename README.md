@@ -1,9 +1,7 @@
 # Hello! 👋
 I'm Jackson. This repository holds my most current [🔗 resume 🔗][resume] for technical positions.
 
-I'm currently **open for new work**! Feel free to reach out with any inquiries (**contact info in resume**)!
-
-If it's after January 15, 2025, I'm currently living in **East Williamsburg, NYC**.
+I'm currently living in **East Williamsburg, NYC** and I'm **open for new work**! Feel free to reach out with any inquiries (**contact info in resume**)!
 
 ## 🎯 Some job titles that would excite me
 - AI Research Engineer
@@ -12,7 +10,7 @@ If it's after January 15, 2025, I'm currently living in **East Williamsburg, NYC
 
 ## 💼 Professional experiences & projects
 - Founder @ Hyprchs ([web](https://hyprchs.com), [github org](https://github.com/hyprchs)) (1yr, **current**)
-  - Stack: SvelteKit, TypeScript, Firestore, GCP, Pytorch, OpenCV, YOLOv8, Ollama, C++, [lczero](https://lczero.org/)
+  - Stack: Ollama, C++, [lczero](https://lczero.org/), GCP, Pytorch, OpenCV, YOLOv8, SvelteKit, TypeScript, Firestore
   - Received funding from the [Google for Startups Cloud Program](https://cloud.google.com/startup) accelerator
   - "Semi-stealth" mode, please fund me :D
 - Machine Learning Engineer @ [Flipmine.com](https://flipmine.com) (1yr, **current**)
