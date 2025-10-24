@@ -4,21 +4,22 @@ I'm Jackson. This repository holds my most current [🔗 resume 🔗][resume] fo
 I'm currently living in **East Williamsburg, NYC** and I'm **open for new work**! Feel free to reach out with any inquiries (**contact info in resume**)!
 
 ## 🎯 Some job titles that would excite me
-- AI Research Engineer
-- Agentic Developer
-- Technical Co-founder
+- AI Engineer
+- Machine Learning Engineer
+- Research Scientist
 
 ## 💼 Professional experiences & projects
-- Founder @ Hyprchs ([web](https://hyprchs.com), [github org](https://github.com/hyprchs)) (1yr, **current**)
-  - Stack: Ollama, C++, [lczero](https://lczero.org/), GCP, Pytorch, OpenCV, YOLOv8, SvelteKit, TypeScript, Firestore
-  - Received funding from the [Google for Startups Cloud Program](https://cloud.google.com/startup) accelerator
-  - "Semi-stealth" mode, please fund me :D
-- Machine Learning Engineer @ [Flipmine.com](https://flipmine.com) (1yr, **current**)
+- Founder @ Hyperchess.ai ([web](https://hyperchess.ai), [github org](https://github.com/hyprchs)) (2yr, **current**)
+  - Stack: PyTorch, C++, OpenCV, SvelteKit/Typescript/Supabase, GCP
+  - Received funding credits from the [Google for Startups Cloud Program](https://cloud.google.com/startup) and [Modal.com](https://modal.com)
+  - Seeking funding :D
+- Machine Learning Engineer @ [Mathpix.com](https://mathpix.com) (1yr)
+- Machine Learning Engineer @ [Flipmine.com](https://flipmine.com) (1yr)
 - Senior Python Dev @ [Aimchess](https://aimchess.com) (2yr)
 - Machine Learning Engineer @ [Dynamic Organics](https://www.dynorganics.com/) (<1yr)
 - Self-taught in Python, practiced consistently since 3rd grade (15yr+)
 - Built a [4D rendering engine](https://github.com/jacksonthall22/4D-Graphics-Engine/tree/update-2023) from scratch in C++
-- Undergrad Honors Thesis: the culmination of 2+yr of deep self-reflection that shaped my understanding of human & artifiical intelligence ([read it here](https://tinyurl.com/ICSFramework))
+- Undergrad Honors Thesis: designing more accurate and human-aligned research objectives for AGI—published before ChatGPT! [Read it here](https://tinyurl.com/ICSFramework)
 
 ## 🧗 Hobbies
 - I'm 2200 on Lichess ([some](https://lichess.org/@/Cubigami/perf/bullet)[times](https://lichess.org/@/RoadTo20000/perf/bullet))
