@@ -19,10 +19,10 @@ I'm currently living in **East Williamsburg, NYC** and I'm **open for new work**
 - Machine Learning Engineer @ [Dynamic Organics](https://www.dynorganics.com/) (<1yr)
 - Self-taught in Python, practiced consistently since 3rd grade (15yr+)
 - Built a [4D rendering engine](https://github.com/jacksonthall22/4D-Graphics-Engine/tree/update-2023) from scratch in C++
-- Undergrad Honors Thesis: designing more accurate and human-aligned research objectives for AGI—published before ChatGPT! [Read it here](https://tinyurl.com/ICSFramework)
+- Undergrad Honors Thesis: envisioning a more human-aligned research pipeline for AGI—published before ChatGPT! [Read it here](https://tinyurl.com/ICSFr)
 
 ## 🧗 Hobbies
-- I'm 2200 on Lichess ([some](https://lichess.org/@/Cubigami/perf/bullet)[times](https://lichess.org/@/RoadTo20000/perf/bullet))
+- I'm 2200 on Lichess ([some](https://lichess.org/@/Cubigami/perf/bullet) [times](https://lichess.org/@/RoadTo20000/perf/bullet))
 - I have sent a few V6 boulders
 - I play piano, spent 5 years learning [Kaleidoscope by Hiromi Uehara](https://youtu.be/QU2893TnTbU?si=fTOynU-eVYEWnejD) (performance coming soon)
 - I grew up ski jumping ([hill pics, none of me](https://www.fordsayre.org/jumping/))
